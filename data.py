@@ -62,7 +62,7 @@ class ConfigCustom():
         return int(self.data['period_of_time'])
 
     def set_log_path(self, path):
-        self.data["log_path"] = self.sanitize_path(path)
+        self.data["log_path"] = self.sanitize_path(path,"FILE")
         self.write_to_config()
 
     def set_source_path(self, path):

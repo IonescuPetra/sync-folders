@@ -42,8 +42,8 @@ class SyncronizeFiles:
         source_files = self.get_files_names(self.source_dir)
         replica_files = self.get_files_names(self.replica_dir)
 
-        print(f"Source_files {source_files}")
-        print(f"Replica_files {replica_files}")
+        # print(f"Source_files {source_files}")
+        # print(f"Replica_files {replica_files}")
 
         for file in source_files.keys():
 

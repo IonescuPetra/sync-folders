@@ -1,0 +1,6 @@
+{
+    "period_of_time": 60,
+    "log_path": "C:\\Users\\lucam\\OneDrive\\Documents\\GitHub\\sync-two-folder\\sync.log",
+    "source_path": "C:\\Users\\lucam\\OneDrive\\Documents\\GitHub\\sync-two-folder\\source",
+    "replica_path": "C:\\Users\\lucam\\OneDrive\\Documents\\GitHub\\sync-two-folder\\replica"
+}
